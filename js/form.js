@@ -5,7 +5,7 @@ $(document).ready( function() {
 		//prevent form from submitting
 		e.preventDefault();	
 		
-		var labelsArray=["name","email","subject","info"];
+		var labelsArray=["name","email","subject","message"];
 
 		var toSend=checkNull(labelsArray);
 		
@@ -14,27 +14,16 @@ $(document).ready( function() {
 			$.ajax({
 				type:'post',
 				url:'mail.php',
-				data:{name: toSend.name,email: toSend.email,subject: toSend.subject,phone: toSend.phone,info: toSend.info},
+				data:{name: toSend.name,email: toSend.email,subject: toSend.subject,message: toSend.message},
 				dataType:'text json',
 				//on successful call
 				success: function(data){
 				//alert(data.error);
 				//if no error happened change the content to the thank you page
 				if(data.error==1){
-				$('.content1').fadeOut(300, function() {
-					$('.content1').load("content5.html").fadeIn(300);
-					//var iframe = document.createElement('iframe'); 
-					//iframe.style.width = '0px';
-					//iframe.style.height = '0px';
-					//document.body.appendChild(iframe);
-					//iframe.src = 'conversion.html';	
-				})
-									
+					alert("Thank you for your message!");
 				}else{
-				//if there was an error display error message 
-				$('.content1').fadeOut(300, function() {
-				$('.content1').html("<p>We're Sorry, there was an error submitting your message.<br>Please contact us at <a href='mailto:sumer@34investments.com'>sumer@34investments.com</a></p>").fadeIn(300);
-				})
+					alert("Error sending your message, please use one of the otehr contact options to the right of the message box.");
 				}
 				
 				},
