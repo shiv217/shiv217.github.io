@@ -12,7 +12,7 @@ $(document).ready( function() {
 		if(toSend.valError==1){	
 		
 			$.ajax({
-				type:'post',
+				type:'put',
 				url:'mail.php',
 				data:{name: toSend.name,email: toSend.email,subject: toSend.subject,message: toSend.message},
 				dataType:'text json',
