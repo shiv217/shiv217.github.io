@@ -386,7 +386,7 @@
 
 		.button-style1
 		{
-			background: #e97770 url('images/overlay.png');
+			background:#0D788E url('images/overlay.png');
 			color: #fff;
 		}
 
@@ -487,7 +487,7 @@
 
 		.feature-list h3
 		{
-			color: #e97770 !important;
+			color: #0D788E !important;
 		}
 		
 			.feature-list h3:before
@@ -1096,14 +1096,14 @@
 	
 	.wrapper-style1
 	{
-		background: #e97770 url('images/overlay.png');
+		background:#0D788E url('images/overlay.png');
 		color: #eee;
 		color: rgba(255,255,255,0.75);
 	}
 	
 		.wrapper-style1 .title
 		{
-			background: #e97770 url('images/overlay.png');
+			background:#0D788E url('images/overlay.png');
 			color: #fff;
 		}
 		
@@ -1158,7 +1158,6 @@
 
 	nav
 	{
-		background:url(../images/menugbg.png) no-repeat center ;
 		margin: 0.625em auto 0 auto;
 		/*height:3.125em;
 		line-height:3.125em;*/
@@ -1190,12 +1189,22 @@
 	#logo
 	{
 	}
-	
+		#logoimage
+		{
+			margin: 1em auto .313em auto;
+			padding:0;
+			z-index:0;
+			position:relative;
+			
+		}
+		
 		#logo h1
 		{
 			font-weight: 900;
 			text-transform: uppercase;
 			color: #fff;
+			position:relative;
+			z-index:1;
 		}
 		
 		#logo .byline

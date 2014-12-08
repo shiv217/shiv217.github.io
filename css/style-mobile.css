@@ -323,6 +323,12 @@
 	{
 		text-align: center;
 	}
+		#logoimage img
+		{
+			width:175px;
+			height:175px;
+			
+		}
 
 		#logo h1
 		{
