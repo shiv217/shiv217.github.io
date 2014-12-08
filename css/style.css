@@ -1153,6 +1153,37 @@
 		}
 		
 /*********************************************************************************/
+/* Menu                                                                          */
+/*********************************************************************************/
+
+	nav
+	{
+		background:url(../images/menugbg.png) no-repeat center ;
+		margin: 0.625em auto 0 auto;
+		/*height:3.125em;
+		line-height:3.125em;*/
+		vertical-align:middle;
+		text-align:center;
+	}
+	 
+		nav a
+		{
+			display:inline-block;
+			text-align:center;
+			margin-left: 0.626em;
+			margin-right: 0.626em;
+			text-decoration:none;
+			color:rgba(255,255,255,.6);
+			font-weight:600;
+			size:auto;
+		}
+		
+		nav a:hover
+		{
+			color:rgba(255,255,255,1);
+		}
+	
+/*********************************************************************************/
 /* Logo                                                                          */
 /*********************************************************************************/
 
@@ -1233,7 +1264,7 @@
 	
 		#copyright span
 		{
-			display: inline-block;
+			display:inline;
 			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,0.05);
 			color: #aaa;
