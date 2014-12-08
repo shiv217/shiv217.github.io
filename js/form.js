@@ -1,7 +1,7 @@
 $(document).ready( function() {
 	$(".error").hide(); 
 
-	$("body").on("click",".button",function(e) {
+	$("body").on("click",".button button-style1",function(e) {
 		//prevent form from submitting
 		e.preventDefault();	
 		
@@ -29,9 +29,7 @@ $(document).ready( function() {
 				},
 				error: function(){
 				//if there was an error display error message 
-				$('.content1').fadeOut(300, function() {
-				$('.content1').html("<p>We're Sorry, there was an error submitting your info.2<br>Please contact us at <a href='mailto:sumer@34investments.com'>sumer@34investments.com</a></p").fadeIn(300);
-				})
+					alert("Error sending your message, please use one of the otehr contact options to the right of the message box.");
 				}
 			});
 			
