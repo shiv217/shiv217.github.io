@@ -73,13 +73,12 @@
 	
 		.image-featured img
 		{
-			position: absolute;
-			top: 0;
-			height: 100%;
-			width: auto;
-
-			/* Adjust this to change the horizontal placement of the image */
-			left: -50%;			
+	position: absolute;
+	top: 0;
+	height: 100%;
+	width: auto;
+	/* Adjust this to change the horizontal placement of the image */
+	left: auto;
 		}
 
 	.button
