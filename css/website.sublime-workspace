@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/GitHub/shiv217.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 13181,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/shiv217.github.io/Inked.html",
+			"settings":
+			{
+				"buffer_size": 9103,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<!--\n	Escape Velocity 2.5 by HTML5 UP\n	html5up.net | @n33co\n	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)\n-->\n<html>\n	<head>\n		<title>Shiv Rawal | Video Links</title>\n		<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n		<meta name=\"description\" content=\"\" />\n		<meta name=\"keywords\" content=\"\" />\n		<link href=\"http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900\" rel=\"stylesheet\" />\n		<script src=\"js/jquery.min.js\"></script>\n		<script src=\"js/jquery.dropotron.min.js\"></script>\n		<script src=\"js/config.js\"></script>\n		<script src=\"js/skel.min.js\"></script>\n		<script src=\"js/skel-panels.min.js\"></script>\n		<noscript>\n			<link rel=\"stylesheet\" href=\"css/skel-noscript.css\" />\n			<link rel=\"stylesheet\" href=\"css/style.css\" />\n			<link rel=\"stylesheet\" href=\"css/style-desktop.css\" />\n		</noscript>\n		<!--[if lte IE 8]><script src=\"js/html5shiv.js\"></script><link rel=\"stylesheet\" href=\"css/ie8.css\" /><![endif]-->\n	</head>\n	<body class=\"no-sidebar\">\n\n		<!-- Header Wrapper -->\n			<div id=\"header-wrapper\" class=\"wrapper\">\n				<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"12u\">\n						\n							<!-- Header -->\n								<div id=\"header\">\n									<!-- Navigation -->\n                                   <nav>\n                                   	<a href=\"index.html\"> Home </a>\n                                        <a href=\"index.html#projects\"> Projects </a>\n                                        <a href=\"index.html#about\"> About me </a>\n                                        <a href=\"#contact\"> Contact</a>\n                                        <a href=\"resume2.pdf\"> Resume </a>\n                                    </nav>\n									<!-- Logo -->\n                                    \n                                    	<div id=\"logoimage\">\n                                        	<center><img src=\"images/LogoFinalColor.png\"></center>\n                                        </div>\n										<div id=\"logo\"> \n										  <h1><a href=\"index.html\">Shivam Rawal</a></h1>\n											<span class=\"byline\">Student Level Designer</span>\n										</div>\n									<!-- /Logo -->\n									\n									<!-- Nav -->\n										<!--<nav id=\"nav\">\n											<ul>\n												<li><a href=\"index.html\">Home</a></li>\n												<li>\n													<span>Dropdown</span>\n													<ul>\n														<li><a href=\"#\">Lorem ipsum</a></li>\n														<li><a href=\"#\">Magna veroeros</a></li>\n														<li><a href=\"#\">Etiam nisl</a></li>\n														<li>\n															<span>Sed consequat</span>\n															<ul>\n																<li><a href=\"#\">Lorem dolor</a></li>\n																<li><a href=\"#\">Amet consequat</a></li>\n																<li><a href=\"#\">Magna phasellus</a></li>\n																<li><a href=\"#\">Etiam nisl</a></li>\n																<li><a href=\"#\">Sed feugiat</a></li>\n															</ul>\n														</li>\n														<li><a href=\"#\">Nisl tempus</a></li>\n													</ul>\n												</li>\n												<li><a href=\"right-sidebar.html\">Right Sidebar</a></li>\n												<li><a href=\"left-sidebar.html\">Left Sidebar</a></li>\n												<li class=\"current_page_item\"><a href=\"no-sidebar.html\">No Sidebar</a></li>\n											</ul>\n										</nav>-->\n									<!-- /Nav -->\n\n								</div>\n							<!-- /Header -->\n\n						</div>\n					</div>\n				</div>\n			</div>\n		<!-- /Header Wrapper -->\n		\n		<!-- Main Wrapper -->\n			<div class=\"wrapper wrapper-style2\">\n				<div class=\"title\">Videos</div>\n				<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"12u\">\n							\n							<!-- Main -->\n								<div id=\"main\">\n									<div>\n										<div class=\"row\">\n											<div class=\"12u skel-cell-important\">\n											\n												<!-- Content -->\n													<div id=\"content\">\n														<article class=\"is is-post\">\n														\n														<div align =\"center\">																															\n														<iframe width=\"640\" height=\"480\" src=\"https://www.youtube.com/embed/wcNXVhBaV5U?rel=0\" frameborder=\"0\" allowfullscreen></iframe>\n														</div>\n															\n															<p>For this video I was capturing Call of Duty 4 Modern Warefare for the Museum of Play's preservation project. Whenever I captured gameplay I always made sure to capture something unique to that game but I only had 15 minutes to capture because after that the file size would be massive. Therefore I decided that I wanted to capture a ground mission and a vehicle mission. I found that I could do this since there were two missions back to back which met the criteria but it would take too long to play through both. I decided to start the ground mission halfway and play through it as quickly as I could and then play through as much of the vehicle mission as well. This took me a few tries because of how the AI reacted slightly differently each time.</p>\n\n														<div align =\"center\">\n														<iframe width=\"640\" height=\"480\" src=\"https://www.youtube.com/embed/zwAQS0uOVkE?rel=0\" frameborder=\"0\" allowfullscreen></iframe>	\n														</div>\n\n															<p>This is a stop motion animation that I made for a college project. I decided that I wanted to keep my animtion video game themed and therefore picked two classic games and figured out a way to put them together. I took about 200-300 shots and then edited them together to create the final project. I was really happy with how it came out and ended up being one of the few in the class that decided to do stop motion. Also being able to eat your work after is always a plus.</p>\n															\n														</article>\n													</div>\n												<!-- /Content -->\n											\n											</div>\n										</div>\n									</div>\n								</div>\n							<!-- /Main -->\n							\n						</div>\n					</div>\n				</div>\n			</div>\n		<!-- /Main Wrapper -->\n		\n		<!-- Footer Wrapper -->\n			<div id=\"footer-wrapper\" class=\"wrapper\">\n				<div class=\"title\" id=\"contact\">Contact Me</div>\n				<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"12u\">\n\n							<!-- Footer -->\n								<!--<div id=\"footer\">\n									<header class=\"style1\">\n										<h2>Ipsum sapien elementum portitor?</h2>\n										<p class=\"byline\">\n											Sed turpis tortor, tincidunt sed ornare in metus porttitor mollis nunc in aliquet.<br />\n											Nam pharetra laoreet imperdiet volutpat etiam consequat feugiat.\n										</p>\n									</header>\n									<hr />\n									<div>-->\n										<div class=\"row\">\n											<div class=\"6u\">\n\n												<!-- Contact Form -->\n													<section class=\"footer-one\">\n														<form method=\"post\" action=\"mail.php\">\n															<div>\n																<div class=\"row half\">\n																	<div class=\"6u\">\n																		<input type=\"text\" class=\"text\" name=\"name\" id=\"contact-name\" placeholder=\"Name\" />\n																	</div>\n																	<div class=\"6u\">\n																		<input type=\"text\" class=\"text\" name=\"name\" id=\"contact-email\" placeholder=\"Email\" />\n																	</div>\n																</div>\n																<div class=\"row half\">\n																	<div class=\"12u\">\n																		<textarea name=\"message\" id=\"contact-message\" placeholder=\"Message\"></textarea>\n																	</div>\n																</div>\n																<div class=\"row\">\n																	<div class=\"12u\">\n																		<ul class=\"actions\">\n																			<li><input type=\"submit\" class=\"button button-style1\" value=\"Send\" /></li>\n																			<li><input type=\"reset\" class=\"button button-style2\" value=\"Reset\" /></li>\n																		</ul>\n																	</div>\n																</div>\n															</div>\n														</form>\n													</section>\n												<!-- /Contact Form -->\n\n											</div>\n											<div class=\"6u\">\n											\n												<!-- Contacts -->\n													<section class=\"footer-two\">\n														<div class=\"feature-list feature-list-small\">\n															<div>\n																<div class=\"row\">\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-home\">Mailing Address</h3>\n																			<p>\n																				Shivam Rawal<br />\n																				Clifton, NJ 07014\n																			</p>\n																		</section>\n																	</div>\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-comment\">Social</h3>\n																			<p>\n																				<ul class=\"social\">\n																				<li><a class=\"fa fa-github solo\" href=\"https://github.com/shiv217\"><span>Github</span></a></li>\n																				<li><a class=\"fa fa-linkedin solo\" href=\"http://www.linkedin.com/profile/view?id=123002200&trk=nav_responsive_tab_profile\"><span>LinkedIn</span></a></li>\n																				<!--<li><a class=\"fa fa-google-plus solo\" href=\"#\"><span>Google+</span></a></li>-->\n																			</ul>\n																			</p>\n																		</section>\n																	</div>\n																</div>\n																<div class=\"row\">\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-envelope\">Email</h3>\n																			<p>\n																				<a href=\"#\">srawal.217@gmail.com</a>\n																			</p>\n																		</section>\n																	</div>\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-phone\">Phone</h3>\n																			<p>\n																				(973) 572-9723\n																			</p>\n																		</section>\n																	</div>\n																</div>\n															</div>\n														</div>\n													</section>\n												<!-- /Contacts -->\n													\n											</div>\n										</div>\n									</div>\n									<hr />\n								</div>\n							<!-- /Footer -->\n\n							<!-- Copyright -->\n								<div id=\"copyright\">\n									<span>\n										&copy; Shivam Rawal. Design by <a href=\"http://html5up.net/\">HTML5 UP</a>.\n									</span>\n								</div>\n							<!-- /Copyright -->\n						\n						</div>\n					</div>\n				</div>\n			</div>\n		<!-- /Footer Wrapper -->\n\n	</body>\n</html>",
+			"file": "/D/GitHub/shiv217.github.io/Inked - Copy.html",
+			"file_size": 10399,
+			"file_write_time": 131168210520500750,
+			"settings":
+			{
+				"buffer_size": 10135,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 33969,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/shiv217.github.io/Quicksilver.html",
+			"settings":
+			{
+				"buffer_size": 10429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/shiv217.github.io/OnerisAris.html",
+			"settings":
+			{
+				"buffer_size": 13276,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GitHub/shiv217.github.io/css/style-desktop.css",
+		"/D/GitHub/shiv217.github.io/css/style.css",
+		"/D/GitHub/shiv217.github.io/css/style-mobile.css",
+		"/C/Users/The Shiv/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/GitHub/shiv217.github.io/Gridlock.html",
+		"/C/Users/The Shiv/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"iframe",
+			"row",
+			"quicksilver_final",
+			"png",
+			"Oneris",
+			"Oneris "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/GitHub/shiv217.github.io/index.html",
+					"settings":
+					{
+						"buffer_size": 13181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1650.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/GitHub/shiv217.github.io/Inked.html",
+					"settings":
+					{
+						"buffer_size": 9103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4047,
+								4023
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1141.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/GitHub/shiv217.github.io/Inked - Copy.html",
+					"settings":
+					{
+						"buffer_size": 10135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3886,
+								3886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1125.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 33969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13814,
+								13816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6701.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/GitHub/shiv217.github.io/Quicksilver.html",
+					"settings":
+					{
+						"buffer_size": 10429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/GitHub/shiv217.github.io/OnerisAris.html",
+					"settings":
+					{
+						"buffer_size": 13276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

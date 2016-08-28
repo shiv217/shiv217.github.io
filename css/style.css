@@ -499,7 +499,10 @@
 				border-radius: 1em;
 				text-align: center;
 			}
-
+	.centerVideo
+	{
+		margin: 0 auto; width: 400px;
+	}
 /*********************************************************************************/
 /* Icons                                                                         */
 /* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
