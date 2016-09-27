@@ -308,6 +308,25 @@
 		width: 100%;
 		margin: 0 0 2em 0;
 	}
+
+	.image-small
+	{
+		display: inline-block;
+		width: 30%;
+	}
+
+	.image-small1
+	{
+		display: inline-block;
+		width: 38%;
+	}
+
+	.image-small2
+	{
+		display: inline-block;
+		width: 70%;
+	}
+
 	
 	ul.social
 		{
@@ -435,6 +454,8 @@
 
 	ul.style1
 	{
+		margin-top: -1.5em;
+		display: flex;
 	}
 	
 	ul.style2
