@@ -279,7 +279,7 @@
 
 		.homepage #header-wrapper
 		{
-			height: 573px;
+			height: 450px;
 		}
 
 	#intro-wrapper
@@ -340,7 +340,7 @@
 	{
 		position: absolute;
 		height: 5em;
-		top: 60%;
+		top: 40%;
 		left: 0;
 		width: 100%;
 		text-align: center;
@@ -353,6 +353,12 @@
 			z-index:0;
 			position:relative;
 			
+		}
+
+		#logoimage img
+		{
+			height:150px;
+			width: 150px;
 		}
 
 		.homepage #logo
