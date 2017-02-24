@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"logo",
+				"logoimage"
+			],
+			[
 				"scr",
 				"SCRIPT	Tag"
 			],
@@ -27,7 +31,42 @@
 			"file": "/D/GitHub/shiv217.github.io/index.html",
 			"settings":
 			{
-				"buffer_size": 14574,
+				"buffer_size": 14636,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/shiv217.github.io/Inked.html",
+			"settings":
+			{
+				"buffer_size": 9623,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/shiv217.github.io/Gridlock.html",
+			"settings":
+			{
+				"buffer_size": 9451,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<!--\n	Escape Velocity 2.5 by HTML5 UP\n	html5up.net | @n33co\n	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)\n-->\n<html>\n	<head>\n		<title>Shiv Rawal | RvB Pinball (WIP)</title>\n		<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n		<meta name=\"description\" content=\"\" />\n		<meta name=\"keywords\" content=\"\" />\n		<link href=\"http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900\" rel=\"stylesheet\" />\n		<script src=\"js/jquery.min.js\"></script>\n		<script src=\"js/jquery.dropotron.min.js\"></script>\n		<script src=\"js/config.js\"></script>\n		<script src=\"js/skel.min.js\"></script>\n		<script src=\"js/skel-panels.min.js\"></script>\n		<noscript>\n			<link rel=\"stylesheet\" href=\"css/skel-noscript.css\" />\n			<link rel=\"stylesheet\" href=\"css/style.css\" />\n			<link rel=\"stylesheet\" href=\"css/style-desktop.css\" />\n		</noscript>\n		<!--[if lte IE 8]><script src=\"js/html5shiv.js\"></script><link rel=\"stylesheet\" href=\"css/ie8.css\" /><![endif]-->\n	</head>\n	<body class=\"homepage\">\n\n		<!-- Header Wrapper -->\n			<div id=\"header-wrapper\" class=\"wrapper\">\n				<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"12u\">\n						\n							<!-- Header -->\n								<div id=\"header\">\n									<!-- Navigation -->\n                                   <nav>\n                                   	<a href=\"index.html\"> Home </a>\n                                        <a href=\"index.html#projects\"> Projects </a>\n                                        <a href=\"index.html#about\"> About me </a>\n                                        <a href=\"#contact\"> Contact</a>\n                                        <a href=\"resume2.pdf\"> Resume </a>\n                                    </nav>\n									<!-- Logo -->\n                                    \n                                    	<div id=\"logoimage\">\n                                        	<center><img src=\"images/LogoFinalColor.png\"></center>\n                                        </div>\n										<div id=\"logo\"> \n										  <h1><a href=\"index.html\">Shivam Rawal</a></h1>\n											<span class=\"byline\">Level Designer</span>\n											<span class=\"byline\">Game Developer</span>\n										</div>\n									<!-- /Logo -->\n									\n									<!-- Nav -->\n										<!--<nav id=\"nav\">\n											<ul>\n												<li><a href=\"index.html\">Home</a></li>\n												<li>\n													<span>Dropdown</span>\n													<ul>\n														<li><a href=\"#\">Lorem ipsum</a></li>\n														<li><a href=\"#\">Magna veroeros</a></li>\n														<li><a href=\"#\">Etiam nisl</a></li>\n														<li>\n															<span>Sed consequat</span>\n															<ul>\n																<li><a href=\"#\">Lorem dolor</a></li>\n																<li><a href=\"#\">Amet consequat</a></li>\n																<li><a href=\"#\">Magna phasellus</a></li>\n																<li><a href=\"#\">Etiam nisl</a></li>\n																<li><a href=\"#\">Sed feugiat</a></li>\n															</ul>\n														</li>\n														<li><a href=\"#\">Nisl tempus</a></li>\n													</ul>\n												</li>\n												<li><a href=\"right-sidebar.html\">Right Sidebar</a></li>\n												<li><a href=\"left-sidebar.html\">Left Sidebar</a></li>\n												<li class=\"current_page_item\"><a href=\"no-sidebar.html\">No Sidebar</a></li>\n											</ul>\n										</nav>-->\n									<!-- /Nav -->\n\n								</div>\n							<!-- /Header -->\n\n						</div>\n					</div>\n				</div>\n			</div>\n		<!-- /Header Wrapper -->\n		\n		<!-- Main Wrapper -->\n			<div class=\"wrapper wrapper-style2\">\n				<div id=\"RVB\" class=\"title\">Red vs. Blue Pinball (WIP)</div>\n				<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"12u\">\n							\n							<!-- Main -->\n								<div id=\"main\">\n									<div>\n										<div class=\"row\">\n											<div class=\"12u skel-cell-important\">\n											\n												<!-- Content -->\n													<div id=\"content\">\n														<article class=\"is is-post\">\n															<!--<header class=\"style1\">\n																<h2>Lorem ipsum dolor sit amet magna egestas<br class=\"mobile-hide\" />\n																morbi bibendum sed malesuada</h2>\n																<span class=\"byline\">Tempus feugiat veroeros sed nullam dolore</span>\n															</header>-->\n															\n															<p>Below is a prototype for pinball table based on popular Rooster Teeth machinima Red vs. Blue. It is being created using Visual Pinball 10. The table is only playable digitally using Visual Pinball 10. The game will be based around season 1 of Red vs. Blue using images and sounds from the show.</p>\n															\n															<a class=\"image image-small2\">\n																<img src=\"images/pinball_1.JPG\" alt=\"Blockout\" />\n															</a>\n															\n															<p>In order to create this table I first started by playing physical machines and learning what makes them fun from their layout and modes that make up the game. I sketched out a layout on paper first. I also decided how many modes the game would have along with what they would do.</p>\n															\n															<a class=\"image image-small2\">\n																<img src=\"images/multiball.gif\" alt=\"Pinball Playfield\" />\n															</a>\n															\n															<p>Above is how the table looks when it is being played. Many of the textures are placeholders at the moment. During this project I have had to setup the playfield and make sure that the shots are able to be completed from the flippers and that they all serve a purpose. I have also done the scripting for the elements on the playfield so that they add to the score and complete modes.</p>\n															\n															\n															\n														</article>\n														\n													</div>\n												<!-- /Content -->\n											\n											</div>\n										</div>\n									</div>\n								</div>\n							<!-- /Main -->\n							\n						</div>\n					</div>\n				</div>\n			</div>\n		<!-- /Main Wrapper -->\n\n		\n		\n		<!-- Footer Wrapper -->\n			<div id=\"footer-wrapper\" class=\"wrapper\">\n				<div class=\"title\" id=\"contact\">Contact Me</div>\n				<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"12u\">\n\n							<!-- Footer -->\n								<!--<div id=\"footer\">\n									<header class=\"style1\">\n										<h2>Ipsum sapien elementum portitor?</h2>\n										<p class=\"byline\">\n											Sed turpis tortor, tincidunt sed ornare in metus porttitor mollis nunc in aliquet.<br />\n											Nam pharetra laoreet imperdiet volutpat etiam consequat feugiat.\n										</p>\n									</header>\n									<hr />\n									<div>-->\n										<div class=\"row\">\n											<div class=\"6u\">\n\n												<!-- Contact Form -->\n													<section class=\"footer-one\">\n														<!-- <form method=\"post\" action=\"mail.php\"> -->\n														<form action = \"mailto:srawal.217@gmail.com\" method=\"post\" enctype=\"type/plain\">\n															<div>\n																<div class=\"row half\">\n																	<div class=\"6u\">\n																		<input type=\"text\" class=\"text\" name=\"name\" id=\"contact-name\" placeholder=\"Name\" />\n																	</div>\n																	<div class=\"6u\">\n																		<input type=\"text\" class=\"text\" name=\"name\" id=\"contact-email\" placeholder=\"Email\" />\n																	</div>\n																</div>\n																<div class=\"row half\">\n																	<div class=\"12u\">\n																		<textarea name=\"message\" id=\"contact-message\" placeholder=\"Message\"></textarea>\n																	</div>\n																</div>\n																<div class=\"row\">\n																	<div class=\"12u\">\n																		<ul class=\"actions\">\n																			<li><input type=\"submit\" class=\"button button-style1\" value=\"Send\" /></li>\n																			<li><input type=\"reset\" class=\"button button-style2\" value=\"Reset\" /></li>\n																		</ul>\n																	</div>\n																</div>\n															</div>\n														</form>\n													</section>\n												<!-- /Contact Form -->\n\n											</div>\n											<div class=\"6u\">\n											\n												<!-- Contacts -->\n													<section class=\"footer-two\">\n														<div class=\"feature-list feature-list-small\">\n															<div>\n																<div class=\"row\">\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-home\">Mailing Address</h3>\n																			<p>\n																				Shivam Rawal<br />\n																				Clifton, NJ 07014\n																			</p>\n																		</section>\n																	</div>\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-comment\">Social</h3>\n																			<p>\n																				<ul class=\"social\">\n																				<li><a class=\"fa fa-github solo\" href=\"https://github.com/shiv217\"><span>Github</span></a></li>\n																				<li><a class=\"fa fa-linkedin solo\" href=\"http://www.linkedin.com/profile/view?id=123002200&trk=nav_responsive_tab_profile\"><span>LinkedIn</span></a></li>\n																				<!--<li><a class=\"fa fa-google-plus solo\" href=\"#\"><span>Google+</span></a></li>-->\n																			</ul>\n																			</p>\n																		</section>\n																	</div>\n																</div>\n																<div class=\"row\">\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-envelope\">Email</h3>\n																			<p>\n																				<a href=\"#\">srawal.217@gmail.com</a>\n																			</p>\n																		</section>\n																	</div>\n																	<div class=\"6u\">\n																		<section>\n																			<h3 class=\"fa fa-phone\">Phone</h3>\n																			<p>\n																				(973) 572-9723\n																			</p>\n																		</section>\n																	</div>\n																</div>\n															</div>\n														</div>\n													</section>\n												<!-- /Contacts -->\n													\n											</div>\n										</div>\n									</div>\n									<hr />\n								</div>\n							<!-- /Footer -->\n\n							<!-- Copyright -->\n								<div id=\"copyright\">\n									<span>\n										&copy; Shivam Rawal. Design by <a href=\"http://html5up.net/\">HTML5 UP</a>.\n									</span>\n								</div>\n							<!-- /Copyright -->\n						\n						</div>\n					</div>\n				</div>\n			</div>\n		<!-- /Footer Wrapper -->\n\n	</body>\n</html>\n",
+			"file": "/D/GitHub/shiv217.github.io/RvB.html",
+			"file_size": 10585,
+			"file_write_time": 131323750557340217,
+			"settings":
+			{
+				"buffer_size": 10306,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/shiv217.github.io/Quicksilver.html",
+			"settings":
+			{
+				"buffer_size": 10595,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,7 +82,7 @@
 			"file": "style-desktop.css",
 			"settings":
 			{
-				"buffer_size": 11450,
+				"buffer_size": 11510,
 				"line_ending": "Windows"
 			}
 		},
@@ -112,6 +151,7 @@
 	},
 	"file_history":
 	[
+		"/D/GitHub/shiv217.github.io/Gridlock.html",
 		"/D/GitHub/shiv217.github.io/css/skel-noscript.css",
 		"/D/GitHub/shiv217.github.io/css/style.css",
 		"/D/GitHub/shiv217.github.io/TestSite/indexTest1.html",
@@ -130,7 +170,6 @@
 		"/D/GitHub/shiv217.github.io/css/style-desktop.css",
 		"/D/GitHub/shiv217.github.io/RvB.html",
 		"/D/GitHub/shiv217.github.io/OnerisAris.html",
-		"/D/GitHub/shiv217.github.io/Gridlock.html",
 		"/D/GitHub/shiv217.github.io/Inked.html",
 		"/D/GitHub/shiv217.github.io/css/website.sublime-project",
 		"/D/GitHub/shiv217.github.io/js/form.js",
@@ -156,6 +195,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"spectral",
 			"logoim",
 			"ShootAgainOn",
 			"ShootAgainOff",
@@ -197,15 +237,15 @@
 					"file": "/D/GitHub/shiv217.github.io/index.html",
 					"settings":
 					{
-						"buffer_size": 14574,
+						"buffer_size": 14636,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3905,
-								3905
+								6324,
+								6324
 							]
 						],
 						"settings":
@@ -214,7 +254,88 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 450.0,
+						"translation.y": 2130.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/GitHub/shiv217.github.io/Inked.html",
+					"settings":
+					{
+						"buffer_size": 9623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3785,
+								3785
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/GitHub/shiv217.github.io/Gridlock.html",
+					"settings":
+					{
+						"buffer_size": 9451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3565,
+								3565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1050.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/GitHub/shiv217.github.io/RvB.html",
+					"settings":
+					{
+						"buffer_size": 10306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3566,
+								3566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1125.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -222,11 +343,38 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 4,
+					"file": "/D/GitHub/shiv217.github.io/Quicksilver.html",
+					"settings":
+					{
+						"buffer_size": 10595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3653,
+								3653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1297.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "style.css",
 					"settings":
 					{
@@ -237,8 +385,8 @@
 						"selection":
 						[
 							[
-								32369,
-								32369
+								33907,
+								33909
 							]
 						],
 						"settings":
@@ -247,25 +395,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 17786.0,
+						"translation.y": 19016.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 6,
 					"file": "style-desktop.css",
 					"settings":
 					{
-						"buffer_size": 11450,
+						"buffer_size": 11510,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5277,
-								5277
+								3820,
+								3820
 							]
 						],
 						"settings":
@@ -274,13 +422,13 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4803.0,
+						"translation.y": 3648.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 7,
 					"file": "style-mobile.css",
 					"settings":
 					{
@@ -301,7 +449,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4526.0,
+						"translation.y": 4451.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -313,7 +461,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 8,
 					"file": "/D/GitHub/shiv217.github.io/TestSite/starter-template.css",
 					"settings":
 					{
@@ -341,7 +489,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 9,
 					"file": "/D/GitHub/shiv217.github.io/TestSite/test.html",
 					"settings":
 					{
@@ -369,7 +517,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 10,
 					"file": "/D/GitHub/shiv217.github.io/TestSite/myscript.js",
 					"settings":
 					{
@@ -433,7 +581,7 @@
 		"cols":
 		[
 			0.0,
-			0.543020833333,
+			0.507604166666,
 			0.973958333333,
 			1.0
 		],
