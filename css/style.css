@@ -327,6 +327,12 @@
 		width: 70%;
 	}
 
+		.image-smallPin
+	{
+		display: inline-block;
+		width: 27%;
+	}
+
 	
 	ul.social
 		{
